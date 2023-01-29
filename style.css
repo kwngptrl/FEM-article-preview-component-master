@@ -181,7 +181,7 @@ button {
 }
 
 .icon-share {
-    scale: 1.2;
+    transform: scale(1.2);
     padding: .5rem;
     background-color: var(--light-grayish-blue);
     clip-path: circle(1rem);
