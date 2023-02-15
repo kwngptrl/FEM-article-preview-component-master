@@ -70,7 +70,7 @@ As I was finishing up the challenge using some animation/transitions, I found ou
 ### Useful resources
 
 - [Animate from display none](https://www.youtube.com/watch?v=4prVdA7_6u0) - Kevin Powell's tutorial on YouTube. Although I didn't apply it thoroughly, still is a good watch.
-- [An Interactive Guide to JavaScript Events](hhttps://www.aleksandrhovhannisyan.com/blog/interactive-guide-to-javascript-events/) - Learned quite a bit here. I'd recommend it to anyone still learning this concept.
+- [An Interactive Guide to JavaScript Events](https://www.aleksandrhovhannisyan.com/blog/interactive-guide-to-javascript-events/) - Learned quite a bit here. I'd recommend it to anyone still learning this concept.
 - [How to Capture Browser Window Resize Event in JavaScript](https://www.tutorialrepublic.com/faq/how-to-capture-browser-window-resize-event-in-javascript.php) - Applied what was presented here in the challenge, especially if the tooltip was enabled and the viewport was resized.
 - [Detect clicks outside of an element](https://www.dom-tricks.com/click-outside) - Springboard into my learning about closing the tooltip by clicking outside of it.
 
